@@ -1,1 +1,5 @@
-[{"productName":"Boots"},{"productName":"Socks"},{"productName":"Flip-Flops"},{"productName":"Sliders"}]
+{
+  "products":{
+  [{"productName":"Boots"},{"productName":"Socks"},{"productName":"Flip-Flops"},{"productName":"Sliders"}]
+  }
+}
