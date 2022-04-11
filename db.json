@@ -6,11 +6,11 @@
     },
     {
       "id": 2,
-      "title": "Flip-Flops"
+      "name": "Flip-Flops"
     },
     {
       "id": 3,
-      "title": "Sliders"
+      "name": "Sliders"
     }
   ]
 }
