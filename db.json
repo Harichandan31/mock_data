@@ -2,15 +2,18 @@
   "products": [
     {
       "id": 1,
-      "name": "Boots"
+      "name": "Boots",
+      "quantity":3
     },
     {
       "id": 2,
-      "name": "Flip-Flops"
+      "name": "Flip-Flops",
+      "quantity":2
     },
     {
       "id": 3,
-      "name": "Sliders"
+      "name": "Sliders",
+      "quantity":0
     }
   ]
 }
