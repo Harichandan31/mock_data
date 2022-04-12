@@ -15,5 +15,9 @@
       "name": "Sliders",
       "quantity":0
     }
-  ]
+  ],
+  "inventoryDetails": {
+    "owner": "Hari Chandan",
+    "address":"11-1, Sarath capital city, Hyderabad, 500011"
+  }
 }
