@@ -19,5 +19,19 @@
   "inventoryDetails": {
     "owner": "Hari Chandan",
     "address":"11-1, Sarath capital city, Hyderabad, 500011"
-  }
+  },
+  "todoItems":[
+    {
+      "id":1,
+      "item":"Water the Plants"
+    },
+    {
+      "id":2,
+      "item":"Organize the Desk area"
+    },
+    {
+      "id":3,
+      "item":"Start Coding...!!"
+    }
+  ]
 }
